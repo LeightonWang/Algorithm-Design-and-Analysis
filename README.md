@@ -30,4 +30,4 @@ Since my limited command on dynamic programming, the only code here is the easie
 ## Max Flow
 2 algorithms implemented:
 - **Dinic**: Finding the maximum flow on a network graph.
-- **Hopcroft-Karp**: Dinic algorithm on *bipartite graphs*. The code uses the algorithm to compute the ***largest independent set***.
+- **Hopcroft-Karp**: Dinic algorithm on *bipartite graphs* to find max match of the graph. The code uses the algorithm to compute the ***largest independent set*** by computing the vertex cover through the max match.
