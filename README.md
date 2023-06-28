@@ -10,3 +10,9 @@ Code for 3 problems of divide and conquer.
 2 algorithms implemented:
 - Dijkstra: Finding the shortest path
 - Kosaraju: Finding *Strong Connected Components* (SCC) of a given directed graph.
+
+## Greedy
+
+## DP
+
+## Max Flow
